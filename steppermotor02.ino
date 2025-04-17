@@ -1,3 +1,5 @@
+Code for Rotation of Motors - One im Clockwise Direction & Other in Anti-Clockwise Direction
+
 
 int enA = 6; // Enable pin for Motor A
 int in1 = 5; // Input pin 1 for Motor A (clockwise)
